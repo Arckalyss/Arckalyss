@@ -7,22 +7,21 @@
 
 **AI × Law** — I work at the intersection of applied machine learning and AI regulation: training and explaining models, then reasoning about where they sit relative to frameworks like the EU AI Act. Hands-on with **Transformers / Hugging Face** for fine-tuning and explainability (SHAP, LIME, Integrated Gradients).
 
-<img src="https://skillicons.dev/icons?i=py,pytorch,sklearn" height="40" alt="Python, PyTorch, scikit-learn"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/>
-
 </div>
 
 <br>
 
 ## Currently
 
+<p align="center">
+  <img src="assets/ensta-logo.jpg" height="55" alt="ENSTA — Institut Polytechnique de Paris">
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/ai-office-logo.jpg" height="55" alt="European AI Office">
+</p>
+
 Final-year engineering student at **ENSTA** ("Conception de systèmes numériques"), completing an end-of-studies internship at the **AI Office of the European Commission** — working on the interoperability between ISO AI standards and the AI Act. In parallel, I completed a law degree (2nd year) at **Université Paris-Panthéon-Assas**.
 
-<<<<<<< HEAD
 🥈 **2nd place, [SPASEA Hackathon](https://www.ensta.fr/actualites/lia-au-service-des-marins-avec-le-hackathon-spasea)** — built **MagnolIA** 🌸, an AI-assisted tool for maritime safety, with a 4-person team.
-=======
-🥈 **2nd place, [SPASEA Hackathon](https://www.ensta.fr/actualites/lia-au-service-des-marins-avec-le-hackathon-spasea)** — built MagnolIA an AI-assisted tool for maritime safety with a 4-person team.
->>>>>>> 5610340561940b3b7cbc144da3f6cbdcafd73e0c
 
 <br>
 
