@@ -13,6 +13,8 @@ AI × Law. I work at the intersection of applied machine learning and AI regulat
 
 Currently a final-year engineering student at **ENSTA** ("Conception de systèmes numériques"), completing an end-of-studies internship at the **AI Office of the European Commission**, working on the interoperability between ISO AI standards and the AI Act. In parallel, I completed a law degree (2nd year) at **Université Paris-Panthéon-Assas**.
 
+**🥈 2nd place, [SPASEA Hackathon](https://www.ensta.fr/actualites/lia-au-service-des-marins-avec-le-hackathon-spasea)** — built an AI-assisted tool for maritime safety with a 4-person team.
+
 ## Featured projects
 
 | | |
@@ -27,8 +29,13 @@ Currently a final-year engineering student at **ENSTA** ("Conception de système
 - Law degree (L2), Université Paris-Panthéon-Assas
 - Previous: internship at Télécom Paris (EU Data Act training material; LLM fine-tuning briefings for BNP Paribas)
 
+## GitHub stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Arckalyss&show_icons=true&hide=prs,issues&count_private=false&hide_border=true&title_color=0A66C2&icon_color=0A66C2" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arckalyss&layout=compact&hide_border=true&title_color=0A66C2" height="165" alt="Top languages" />
+</p>
+
 ## Contact
 
 Reach me on [LinkedIn](https://linkedin.com/in/roman-dard) or by [email](mailto:roman.dard@ensta.fr).
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arckalyss&show_icons=true&hide=prs,issues&count_private=false&hide_border=true)
