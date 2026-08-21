@@ -18,7 +18,11 @@
 
 Final-year engineering student at **ENSTA** ("Conception de systèmes numériques"), completing an end-of-studies internship at the **AI Office of the European Commission** — working on the interoperability between ISO AI standards and the AI Act. In parallel, I completed a law degree (2nd year) at **Université Paris-Panthéon-Assas**.
 
+<<<<<<< HEAD
 🥈 **2nd place, [SPASEA Hackathon](https://www.ensta.fr/actualites/lia-au-service-des-marins-avec-le-hackathon-spasea)** — built **MagnolIA** 🌸, an AI-assisted tool for maritime safety, with a 4-person team.
+=======
+🥈 **2nd place, [SPASEA Hackathon](https://www.ensta.fr/actualites/lia-au-service-des-marins-avec-le-hackathon-spasea)** — built MagnolIA an AI-assisted tool for maritime safety with a 4-person team.
+>>>>>>> 5610340561940b3b7cbc144da3f6cbdcafd73e0c
 
 <br>
 
